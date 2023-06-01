@@ -39,3 +39,6 @@ Make sure you have the necessary dependencies installed before running the scrip
 ### Laser Callback Function
 - Callback function for the LaserScan topic.
 - Updates the value of the closest obstacle distance.
+
+# Assignment 3: Statistic analysis
+A statistic analysis was made about the efficiency of our python simulator assignment done in Research Track 1.
