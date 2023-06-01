@@ -1,6 +1,7 @@
 # RT2-all-assignments
 # Assignment 1: Sphinx documentation
-Sphinx documentation about Assignment 2 of Research Track 1
+Sphinx documentation about Assignment 2 of Research Track 1.
+To access the documentation page, go to the repository RT_Sphinx_Assignment.
 # Assignment 2: Jupyter notebook
 
 This notebook pertains to the second assignment completed in the Research Track 1 course. The objective was to develop a notebook that would serve as a replacement for the user interface on node_a.
